@@ -1,0 +1,67 @@
+.container{
+    max-width: 300px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.screen{
+    background-color: black;
+    height: 100px;
+    color: white;
+    font-size: 30px;
+    
+    
+
+}
+
+.result{
+    font-size: 40px;
+}
+
+.buttons{
+    margin-top: 50px;
+
+
+    
+
+}
+
+button{
+    width: 70px;
+    height: 40px;
+    font-size: 30px;
+}
+
+.mod{
+    width: 144px;
+}
+
+.control{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.ac,.equal{
+    width: 100px;
+    margin-top: 20px;
+}
+
+.boot{
+    margin-top: 10px;
+    width: 300px;
+}
+
+.eye{
+    width: 170px;
+    height: 100px;
+    
+    
+}
+
+.fix-eye{
+    display: flex;
+    justify-content: center;
+}
